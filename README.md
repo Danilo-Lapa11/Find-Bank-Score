@@ -22,7 +22,7 @@ As ferramentas e Bibliotecas utilizadas foram:
   - **train_test_split**
     > realiza a divisão da base de dados para 70% dados de treino e 30% dados de teste.
   - **RandomForestClassifier**
-    > instância um algoritmo de modelo Árvore de Busca para realizar a previsão.
+    > instância um algoritmo de modelo Árvore de Decisão para realizar a previsão.
     ![ArvoreDeBusca](https://www.homemmaquina.com.br/wp-content/uploads/2020/07/arvorededecisao1.png)
   - **KNeighborsClassifier**
     > instância um algoritmo de modelo KNN - Nearest Neighbors para realizar a previsão.
