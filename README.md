@@ -23,8 +23,10 @@ As ferramentas e Bibliotecas utilizadas foram:
     > realiza a divisão da base de dados para 70% dados de treino e 30% dados de teste.
   - **RandomForestClassifier**
     > instância um algoritmo de modelo Árvore de Busca para realizar a previsão.
+    ![ArvoreDeBusca](https://www.homemmaquina.com.br/wp-content/uploads/2020/07/arvorededecisao1.png)
   - **KNeighborsClassifier**
     > instância um algoritmo de modelo KNN - Nearest Neighbors para realizar a previsão.
+    ![KNN](https://miro.medium.com/v2/resize:fit:640/format:webp/1*wW8O-0xVQUFhBGexx2B6hg.png)
 
 **Obs.:** Para testar o código é necessário ter as bibliotecas acima instaladas, caso não tenha segue abaixo o comando para instalar no terminal.
 
